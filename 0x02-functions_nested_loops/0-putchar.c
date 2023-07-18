@@ -1,11 +1,11 @@
 #include "main.h"
-	/**
-	 * main - print _putchar,
-	 *
-	 * Return: Always 0
-	 */
+/**
+ * main - print _putchar
+ * is written by prog
+ * Return: 0 Always
+ */
 
-	int main(void)
+int main(void)
 	{
 	_putchar('_');
 	_putchar('p');
