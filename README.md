@@ -1,1 +1,1 @@
-My first prject in C programming
+0x02. C - Functions, nested loops
